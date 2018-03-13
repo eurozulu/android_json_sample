@@ -1,0 +1,37 @@
+{
+  "members": [
+    {
+      "first-name": "John",
+      "surname": "Doe",
+      "gender": "male",
+      "birthday": 7776000,
+      "contacts": {
+        "email": "john.doe@anonymous.com",
+        "mobile": "555-1234",
+        "twitter": "???"
+      }
+    },
+    {
+      "first-name": "Mary",
+      "surname": "Berry",
+      "gender": "female",
+      "birthday": 946512000,
+      "contacts": {
+        "email": "maryb@noneofyourbusiness.org",
+        "mobile": "555-1234",
+        "twitter": "???"
+      }
+    },
+    {
+      "first-name": "Charlot",
+      "surname": "Harlot",
+      "gender": "female",
+      "birthday": 1086480000,
+      "contacts": {
+        "email": "harlet@gmail.con",
+        "mobile": "555-1234",
+        "twitter": "???"
+      }
+    }
+  ]
+}

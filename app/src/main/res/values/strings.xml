@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonExamples</string>
+    <string name="btn_go" >Go!</string>
+</resources>
